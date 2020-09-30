@@ -25,7 +25,7 @@ REQUIREMENTS
 
   http://doryen.eptalys.net/libtcod/download/
 
-Please use the version according to your system
+Please use the version according to your system.
 
 Change the libtcodpy.py, libtcod.so and libSDL.so files with the one
 you need according to your system and the instructions specified in
